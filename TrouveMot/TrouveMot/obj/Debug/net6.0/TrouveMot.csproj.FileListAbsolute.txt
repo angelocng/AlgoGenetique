@@ -1,0 +1,15 @@
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\bin\Debug\net6.0\TrouveMot.exe
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\bin\Debug\net6.0\TrouveMot.deps.json
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\bin\Debug\net6.0\TrouveMot.runtimeconfig.json
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\bin\Debug\net6.0\TrouveMot.dll
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\bin\Debug\net6.0\TrouveMot.pdb
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.csproj.AssemblyReference.cache
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.AssemblyInfoInputs.cache
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.AssemblyInfo.cs
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.csproj.CoreCompileInputs.cache
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.dll
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\refint\TrouveMot.dll
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.pdb
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\TrouveMot.genruntimeconfig.cache
+C:\Users\Angelo CONGIU\Documents\Projets\Génétique\TrouveMot\TrouveMot\obj\Debug\net6.0\ref\TrouveMot.dll
